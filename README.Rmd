@@ -35,3 +35,11 @@ Hey benkeser, here is some great new code. And I've included an R chunk below!
 print("hello from R")
 Sys.Date()
 ```
+
+# Another BIG contribution from resekneb
+
+Call me Ishmael. Some years ag -- never mind how long precisely -- having little or no money
+in my purse and nothing particular to interest me on short, I thought I would sail about a little
+and see the watery part of the world.
+
+
