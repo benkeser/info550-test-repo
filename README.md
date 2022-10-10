@@ -23,3 +23,23 @@ Here is some text that I will commit to the test branch.
 # My new_test branch
 
 Here is some text that I will commit to the new\_-test branch.
+
+# Contribution from resekneb
+
+Hey benkeser, here is some great new code. And I’ve included an R chunk
+below!
+
+``` r
+print("hello from R")
+```
+
+    ## [1] "hello from R"
+
+``` r
+Sys.Date()
+```
+
+    ## Warning in as.POSIXlt.POSIXct(Sys.time()): unable to identify current timezone 'C':
+    ## please set environment variable 'TZ'
+
+    ## [1] "2022-10-10"

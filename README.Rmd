@@ -26,3 +26,12 @@ Here is some text that I will commit to the test branch.
 # My new_test branch
 
 Here is some text that I will commit to the new_-test branch.
+
+# Contribution from resekneb
+
+Hey benkeser, here is some great new code. And I've included an R chunk below!
+
+```{r}
+print("hello from R")
+Sys.Date()
+```
