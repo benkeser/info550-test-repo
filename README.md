@@ -1,4 +1,4 @@
-My first git repo (on the main branch)
+My first git repo
 ================
 David Benkeser
 
@@ -6,7 +6,6 @@ David Benkeser
 
 Here is some text that constitutes my first commit in my first repo. I
 am now adding a new line to this first commit section of the readme.
-text for another commit. text for yet another commit.
 
 # My second commit
 
@@ -38,9 +37,6 @@ print("hello from R")
 ``` r
 Sys.Date()
 ```
-
-    ## Warning in as.POSIXlt.POSIXct(Sys.time()): unable to identify current timezone 'C':
-    ## please set environment variable 'TZ'
 
     ## [1] "2022-10-10"
 
