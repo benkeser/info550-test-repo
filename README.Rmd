@@ -40,4 +40,7 @@ Call me Ishmael. Some years ago -- never mind how long precisely -- having littl
 in my purse and nothing particular to interest me on short, I thought I would sail about a little
 and see the watery part of the world.
 
+# A direct contribution from resekneb
+
+Here's a contribution that I can push directly to Github.
 

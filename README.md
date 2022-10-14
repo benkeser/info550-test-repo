@@ -38,7 +38,10 @@ print("hello from R")
 Sys.Date()
 ```
 
-    ## [1] "2022-10-10"
+    ## Warning in as.POSIXlt.POSIXct(Sys.time()): unable to identify current timezone 'C':
+    ## please set environment variable 'TZ'
+
+    ## [1] "2022-10-14"
 
 # Another BIG contribution from resekneb
 
@@ -46,3 +49,7 @@ Call me Ishmael. Some years ago – never mind how long precisely – having
 little or no money in my purse and nothing particular to interest me on
 short, I thought I would sail about a little and see the watery part of
 the world.
+
+# A direct contribution from resekneb
+
+Here’s a contribution that I can push directly to Github.
