@@ -38,8 +38,6 @@ print("hello from R")
 Sys.Date()
 ```
 
-    ## [1] "2022-10-14"
-
 # Another BIG contribution from resekneb
 
 Call me Ishmael. Some years ago – never mind how long precisely – having
@@ -50,3 +48,8 @@ the world.
 # A direct contribution from benkeser
 
 Here is a change I’ll push directly to Github as benkeser!
+
+# A direct contribution from resekneb
+
+Here’s a contribution that I can push directly to Github.
+
